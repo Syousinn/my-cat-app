@@ -7,3 +7,5 @@ default: &default
   host: db
   username: postgres
   password: password
+
+  
